@@ -10,7 +10,7 @@ Currently studying systems analysis and development
 JAVASCRIPT / HTML / CSS / REACT / TYPESCRIPT / NODE / VUEJS / NEXT.JS / ANGULARJS / STYLED-COMPONENTS / GIT / BOOTSTRAP / METÓDOLIGAS ÁGEIS e etc...
 
 
-## Common Github 
+## Common
 👩‍💻 I'm currently personal projects !
 
 🧠 I'm currently learning Node.js !
