@@ -1,3 +1,8 @@
+#  Hi, I'm jesse ! Full-Stack Developer !
+
+***
+- I'm 19 years old, from São Paulo, Brazil. Currently, I'm studying Analysis and Systems Development and taking other courses.
+
 ##  Tecnology Stack
 
 ***
