@@ -1,20 +1,31 @@
 
-# Hi, I'm jesse! 👋
+# Hi, I'm jesse ! Full-Stack Developer !
 
+***
+- i'm 19 years old , from São paulo Brazil , now i'm cursing Ads (analysis and systems development)
+and duing other curses
 
-## 🚀 About Me
-I'm a  student of programation and technology enthusiast
+## Tecnology Stack
 
-Currently studying systems analysis and development
-## 🛠 Skills
-JAVASCRIPT / HTML / CSS / REACT / TYPESCRIPT / NODE / VUEJS / NEXT.JS / ANGULARJS / STYLED-COMPONENTS / GIT / BOOTSTRAP / METÓDOLIGAS ÁGEIS e etc...
+***
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+ ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
 
+## My GitHub Stats
 
-## Common
-👩‍💻 I'm currently personal projects !
+***
 
-🧠 I'm currently learning Node.js !
-
-
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessemp3)](https://github.com/jessemp3/github-readme-stats)
