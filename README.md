@@ -1,7 +1,7 @@
 #  Hi, I'm jesse ! Full-Stack Developer !
 
 ***
-- I'm 19 years old, from São Paulo, Brazil. Currently, I'm studying Analysis and Systems Development and taking other courses.
+- Olá , Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Anhanguera. Comecei a estudar programação em 2022 e, desde então, venho me especializando em tecnologias como ReactJS, TypeScript, JavaScripta, NodeJS,Sass e PostgreSQL.
 
 ##  Tecnology Stack
 
