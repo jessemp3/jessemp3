@@ -1,11 +1,10 @@
 #  Hi, I'm jesse ! Full-Stack Developer !
 
-***
 - Olá , Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Anhanguera. Comecei a estudar programação em 2022 e, desde então, venho me especializando em tecnologias como ReactJS, TypeScript, JavaScripta, NodeJS,Sass e PostgreSQL.
 
 ##  Tecnology Stack
 
-***
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -18,7 +17,7 @@
 
 
 ## Most Used Languages
-***
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessemp3&layout=donut)](https://github.com/anuraghazra/github-readme-stats)   
 
