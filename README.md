@@ -24,10 +24,10 @@ Olá , Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas n
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,phpstorm,webstorm,androidstudio,wordpress,figma)](https://skillicons.dev)
 
-
-  - Ambiente de Desenvolvimento
+- Ambiente de Desenvolvimento
 
     [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
+  
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=php,html,css,sass)](https://skillicons.dev)
