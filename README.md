@@ -1,26 +1,39 @@
-#  Hi, I'm jesse ! Full-Stack Developer !
 
-- Olá , Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Anhanguera. Comecei a estudar programação em 2022 e, desde então, venho me especializando em tecnologias como ReactJS, TypeScript, JavaScripta, NodeJS,Sass e PostgreSQL.
+![LinkedIn](https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=)
 
-##  Tecnology Stack
+# Kaique alves
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaique-alves--blue?logo=linkedin)](https://www.linkedin.com/in/kaique-alves-)
+
+## 👋 Olá!
+
+Olá , Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Anhanguera. Comecei a estudar programação em 2022 e, desde então, venho me especializando em tecnologias como ReactJS, TypeScript, JavaScript, NodeJS, Sass e PostgreSQL.
+
+## 🚀 Habilidades Técnicas
+
+- Linguagens de Programação: 
+
+    [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php)](https://skillicons.dev)
+- Frameworks e Bibliotecas: 
+
+    [![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel,expressjs,sequelize,styledcomponents,bootstrap,tailwind,vite)](https://skillicons.dev)
+- Dados: 
+
+    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
+- Ferramentas e Tecnologias: 
+
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,phpstorm,webstorm,androidstudio,wordpress,figma)](https://skillicons.dev)
+- Desenvolvimento Web:
+
+    [![My Skills](https://skillicons.dev/icons?i=php,html,css,sass)](https://skillicons.dev)
+
+## 🏆 Projetos Destacados
+
+- [AgeOS](https://github.com/AgeOS/AgeOs): AgeOS é uma custom ROM projetada especificamente para facilitar a navegação de pessoas da terceira idade
+- [Apple Store](https://github.com/jessemp3/black-nextjs):Um Projeto focado na prática de Ts e consumo de API , simula uma loja online que vende produtos da apple
+- [FreeLancer](https://github.com/jessemp3/freelancer-hours): Projeto com Php e Laravel , que simula uma plataforma de contratação 
 
 
+Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![PHP Icon](https://img.shields.io/badge/PHP-%237772B2?style=flat&logo=php&logoColor=white)
-
-
-## Most Used Languages
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessemp3&layout=donut)](https://github.com/anuraghazra/github-readme-stats)   
-
-## My Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessemp3&icons=true&bg_color=00000000)
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=jessemp3&show_icons=true&theme=merko)
