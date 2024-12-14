@@ -7,7 +7,7 @@
 
 ## 👋 Olá!
 
-Olá , Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Anhanguera. Comecei a estudar programação em 2022 e, desde então, venho me especializando em tecnologias como ReactJS, TypeScript, JavaScript, NodeJS, Sass e PostgreSQL.
+Olá , Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Anhanguera. Comecei a estudar programação em 2022 e, desde então, venho me especializando em tecnologias como ReactJS, TypeScript, JavaScript, NodeJS, Sass e PostgreSQL.
 
 ## 🚀 Habilidades Técnicas
 
