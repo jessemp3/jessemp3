@@ -41,4 +41,4 @@ Olá , Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas n
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=jessemp3&show_icons=true&theme=merko)
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=jessemp3&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessemp3&layout=compact)
