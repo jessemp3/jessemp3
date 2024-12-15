@@ -30,7 +30,7 @@ Olá , Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas n
   
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css,sass)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=php,html,css,sass,react,nextjs)](https://skillicons.dev)
 
 ## 🏆 Projetos Destacados
 
