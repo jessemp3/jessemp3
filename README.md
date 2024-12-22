@@ -19,7 +19,7 @@ Olá , Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas n
     [![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel,expressjs,sequelize,styledcomponents,bootstrap,tailwind,vite,postman)](https://skillicons.dev)
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,firebase)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,phpstorm,webstorm,androidstudio,wordpress,figma)](https://skillicons.dev)
