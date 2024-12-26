@@ -26,7 +26,7 @@ Olá , Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas n
 
 - Ambiente de Desenvolvimento
 
-    [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,kali)](https://skillicons.dev)
   
 
 ## 🏆 Projetos Destacados
