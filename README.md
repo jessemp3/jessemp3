@@ -1,5 +1,5 @@
 
-![LinkedIn](https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=)
+![imagem](https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=)
 
 # Kaique alves
 
@@ -16,7 +16,7 @@ Olá , Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas n
     [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel,expressjs,sequelize,styledcomponents,bootstrap,tailwind,vite,postman)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel,expressjs,sequelize,styledcomponents,bootstrap,tailwind,vite,postman,jest)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,firebase)](https://skillicons.dev)
