@@ -33,33 +33,30 @@ Let's connect and create something amazing together! 🚀
 </p>
 
 
-## 🚀 Habilidades Técnicas
+## 🚀 Technical Skills
 
-- Linguagens de Programação: 
+- Programming Languages: 
 
     [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php)](https://skillicons.dev)
-- Frameworks e Bibliotecas: 
+- Frameworks and Libraries: 
 
     [![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel,expressjs,sequelize,styledcomponents,bootstrap,tailwind,vite,postman,jest)](https://skillicons.dev)
-- Dados: 
+- Data: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,firebase)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
+- Tools and Technologies: 
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,phpstorm,webstorm,androidstudio,wordpress,figma)](https://skillicons.dev)
 
-- Ambiente de Desenvolvimento
+- Development Environment:
 
     [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,kali)](https://skillicons.dev)
   
 
-## 🏆 Projetos Destacados
+## 🏆 Featured Projects
 
-- [AgeOS](https://github.com/AgeOS/AgeOs): AgeOS é uma custom ROM projetada especificamente para facilitar a navegação de pessoas da terceira idade
-- [Apple Store](https://github.com/jessemp3/black-nextjs):Um Projeto focado na prática de Ts e consumo de API , simula uma loja online que vende produtos da apple
-- [FreeLancer](https://github.com/jessemp3/freelancer-hours): Projeto com Php e Laravel , que simula uma plataforma de contratação 
+- [AgeOS](https://github.com/AgeOS/AgeOs): AgeOS is a custom ROM designed specifically to facilitate browsing for elderly people
+- [Apple Store](https://github.com/jessemp3/BuscadorDeCep): A library that facilitates the search for CEPs and can be used within other PHP projects, reducing dev work
+- [FreeLancer](https://github.com/jessemp3/freelancer-hours): Project with Php and Laravel, which simulates a hiring platform
 
-
-Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
-
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=jessemp3&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessemp3&layout=compact)
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=jessemp3&show_icons=true&theme=dark) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
