@@ -22,13 +22,13 @@ Let's connect and create something amazing together! 🚀
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=kaiquedt21@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/kaique-alves-/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaique-alves-/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5511911054439" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511911054439" alt="WhatsApp"/></a>
-  <a href="#" title="Instagram">
+  <a href="https://www.instagram.com/dontfollow_jesse/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/dontfollow_jesse/" alt="Instagram"/></a>
 </p>
 
