@@ -56,7 +56,7 @@ Let's connect and create something amazing together! 🚀
 ## 🏆 Featured Projects
 
 - [AgeOS](https://github.com/AgeOS/AgeOs): AgeOS is a custom ROM designed specifically to facilitate browsing for elderly people
-- [Apple Store](https://github.com/jessemp3/BuscadorDeCep): A library that facilitates the search for CEPs and can be used within other PHP projects, reducing dev work
+- [Buscador de CEP's](https://github.com/jessemp3/BuscadorDeCep): A library that facilitates the search for CEPs and can be used within other PHP projects, reducing dev work
 - [FreeLancer](https://github.com/jessemp3/freelancer-hours): Project with Php and Laravel, which simulates a hiring platform
 
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=jessemp3&show_icons=true&theme=dark) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jessemp3&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
