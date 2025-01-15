@@ -40,7 +40,7 @@ Let's connect and create something amazing together! 🚀
     [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php)](https://skillicons.dev)
 - Frameworks and Libraries: 
 
-    [![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel,expressjs,sequelize,styledcomponents,bootstrap,tailwind,vite,postman,jest)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel,expressjs,sequelize,styledcomponents,bootstrap,tailwind,vite,postman,jest,sass)](https://skillicons.dev)
 - Data: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,firebase)](https://skillicons.dev)
