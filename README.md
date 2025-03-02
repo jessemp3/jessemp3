@@ -44,7 +44,7 @@ Let's connect and create something amazing together! 🚀
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,firebase)](https://skillicons.dev)
 - Tools and Technologies: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,phpstorm,webstorm,androidstudio,wordpress,figma)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,phpstorm,webstorm,androidstudio,wordpress,figma,markdown)](https://skillicons.dev)
 
 - Development Environment:
 
