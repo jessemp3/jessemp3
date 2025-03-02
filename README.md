@@ -35,10 +35,10 @@ Let's connect and create something amazing together! 🚀
 
 - Programming Languages: 
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,py)](https://skillicons.dev)
 - Frameworks and Libraries: 
 
-    [![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel,expressjs,sequelize,styledcomponents,bootstrap,tailwind,vite,postman,jest,sass)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel,expressjs,sequelize,styledcomponents,bootstrap,tailwind,vite,postman,jest,sass,jquery)](https://skillicons.dev)
 - Data: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,firebase)](https://skillicons.dev)
@@ -48,7 +48,7 @@ Let's connect and create something amazing together! 🚀
 
 - Development Environment:
 
-    [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,kali)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,kali,debian)](https://skillicons.dev)
   
 
 ## 🏆 Featured Projects
