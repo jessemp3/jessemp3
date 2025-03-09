@@ -14,10 +14,6 @@ Let's connect and create something amazing together! 🚀
 </p>
 
 <p align="left">
-  💼 tools: <code>the tools i use every day is Vscode , PhpStorm , git & github  </code>
-</p>
-
-<p align="left">
   💌 If you are interested in working with me please get in touch: ⤵️
 </p>
 
