@@ -10,7 +10,7 @@ Let's connect and create something amazing together! 🚀
 </p>
 
 <p align="left">
-  🦄 Languages i'm use often: <code>Javascript , NodeJs , Python and Java</code>
+  🦄 Languages i'm use often: <code>Javascript,Python and NodeJs</code>
 </p>
 
 <p align="left">
