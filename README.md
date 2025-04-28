@@ -31,7 +31,7 @@ Let's connect and create something amazing together! 🚀
 
 - Programming Languages: 
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,php,py,java)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,py)](https://skillicons.dev)
 - Frameworks and Libraries: 
 
     [![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel,expressjs,sequelize,styledcomponents,bootstrap,tailwind,vite,postman,jest,sass,jquery)](https://skillicons.dev)
