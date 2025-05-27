@@ -10,10 +10,6 @@ Let's connect and create something amazing together! 🚀
 </p>
 
 <p align="left">
-  🦄 Languages i'm use often: <code>Javascript,Python and NodeJs</code>
-</p>
-
-<p align="left">
   💌 If you are interested in working with me please get in touch: ⤵️
 </p>
 
@@ -31,7 +27,7 @@ Let's connect and create something amazing together! 🚀
 
 - Programming Languages: 
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,py)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,py,java)](https://skillicons.dev)
 - Frameworks and Libraries: 
 
     [![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel,expressjs,sequelize,styledcomponents,bootstrap,tailwind,vite,postman,jest,sass,jquery)](https://skillicons.dev)
