@@ -3,10 +3,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Hi there, I'm Jesse! 👋
-I'm a 20-year-old Junior Full Stack Developer who's passionate about technology and always eager to learn more. Currently, I'm pursuing my degree in Analysis and Systems Development (ADS) while also expanding my skills through a Cybersecurity Bootcamp and a Full Stack TypeScript course at DIO.
-My journey in tech has been driven by curiosity and the desire to grow as a developer. As I navigate through my studies and projects, I'm building a strong foundation in both front-end and back-end development, while also gaining valuable insights into cybersecurity.
-Let's connect and create something amazing together! 🚀
+Hi there, I'm Jesse! 👋  
+I'm a 20-year-old Junior Android Developer passionate about technology and always eager to learn more.  
+Currently, I'm pursuing my degree in Analysis and Systems Development (ADS), while specializing in **native Android development** using Java and Kotlin.  
+I'm also expanding my knowledge through a Cybersecurity Bootcamp and additional mobile-focused courses at DIO.  
+My journey in tech has been driven by curiosity and the desire to grow as a mobile developer.  
+Let's connect and build amazing mobile experiences together! 📱🚀  
 </p>
 
 <p align="left">
@@ -22,31 +24,39 @@ Let's connect and create something amazing together! 🚀
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511911054439" alt="WhatsApp"/></a>
 </p>
 
+---
 
 ## 🚀 Technical Skills
 
-- Programming Languages: 
+- **Languages:**  
+  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,javascript,typescript)](https://skillicons.dev)
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,java)](https://skillicons.dev)
-- Frameworks and Libraries: 
+- **Frameworks & Libraries:**  
+  [![My Skills](https://skillicons.dev/icons?i=androidstudio,react,nextjs,laravel,expressjs,tailwind,bootstrap,jquery)](https://skillicons.dev)
 
-    [![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel,expressjs,sequelize,styledcomponents,bootstrap,tailwind,vite,postman,jest,sass,jquery)](https://skillicons.dev)
-- Data: 
+- **Databases:**  
+  [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,postgres,mongo)](https://skillicons.dev)
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,firebase)](https://skillicons.dev)
-- Tools and Technologies: 
+- **Tools & Platforms:**  
+  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,phpstorm,webstorm)](https://skillicons.dev)
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,phpstorm,webstorm,androidstudio,wordpress,figma,markdown)](https://skillicons.dev)
+- **OS & Environments:**  
+  [![My Skills](https://skillicons.dev/icons?i=windows,kali,debian)](https://skillicons.dev)
 
-- Development Environment:
-
-    [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,kali,debian)](https://skillicons.dev)
-  
+---
 
 ## 🏆 Featured Projects
 
-- [AgeOS](https://github.com/AgeOS/AgeOs): AgeOS is a custom ROM designed specifically to facilitate browsing for elderly people
-- [Buscador de CEP's](https://github.com/jessemp3/BuscadorDeCep): A library that facilitates the search for CEPs and can be used within other PHP projects, reducing dev work
-- [js_toold](https://github.com/jessemp3/js_tools): A simple CLI tool , to generate QR codes and security passwords
+- [AgeOS](https://github.com/AgeOS/AgeOs)  
+  🧓 A custom ROM designed to make Android devices easier and safer for elderly users.
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=jessemp3&show_icons=true&theme=dark) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jessemp3&hide=html,css&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+- [Buscador de CEP's](https://github.com/jessemp3/BuscadorDeCep)  
+  🔍 A PHP library that simplifies ZIP code (CEP) lookup in Brazilian systems.
+
+- [js_tools](https://github.com/jessemp3/js_tools)  
+  🛠️ A CLI tool to generate QR codes and secure passwords — useful in development and testing.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jessemp3&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessemp3&hide=html,css&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
