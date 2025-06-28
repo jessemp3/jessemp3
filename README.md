@@ -32,7 +32,7 @@ Let's connect and build amazing mobile experiences together! 📱🚀
   [![My Skills](https://skillicons.dev/icons?i=java,kotlin,javascript,typescript)](https://skillicons.dev)
 
 - **Frameworks & Libraries:**  
-  [![My Skills](https://skillicons.dev/icons?i=androidstudio,react,nextjs,laravel,expressjs,tailwind,bootstrap,jquery)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=androidstudio,gradle,react,nextjs,laravel,expressjs,tailwind,bootstrap,jquery)](https://skillicons.dev)
 
 - **Databases:**  
   [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,postgres,mongo)](https://skillicons.dev)
