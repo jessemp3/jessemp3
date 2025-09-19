@@ -59,7 +59,7 @@ MyBooks is a digital **library app** with offline-first capabilities.
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/kaique-alves-"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.linkedin.com/in/kaique-alves-/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="mailto:nitchsx@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
