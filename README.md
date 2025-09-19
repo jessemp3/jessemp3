@@ -47,7 +47,7 @@ MyBooks is a digital **library app** with offline-first capabilities.
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=jessemp3&show_icons=true&theme=transparent" height="230"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessemp3&hide=html,css,blade,ejs&theme=transparent" height="230"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessemp3&hide=html,css,blade,ejs&theme=transparent" height="195"/>
 </p>
 
 <p align="center">
