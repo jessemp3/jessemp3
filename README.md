@@ -36,7 +36,7 @@ AgeOS is a custom **ROM** designed to simplify navigation for *seniors*, ensurin
 
 ---
 
-### 🔹 [MyBooks](https://github.com/jessemp3/Desenvolvimento-nativo-java/tree/main/MyBooks)
+### 🔹 [MyBooks](https://github.com/jessemp3/MyBooks-Android)
 MyBooks is a digital **library app** with offline-first capabilities.  
 - Built with **Java + Room + Retrofit**  
 - Clean UI with Material Design and seamless API integration  
