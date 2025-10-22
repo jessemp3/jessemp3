@@ -43,6 +43,12 @@ MyBooks is a digital **library app** with offline-first capabilities.
 
 ---
 
+### 🔹 [Battery-Guardian](https://github.com/jessemp3/Battery-Guardian)
+Battery Guardian is an app to analyze your battery  
+- Built with **Java + Xml Layouts + Broadcast**  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
