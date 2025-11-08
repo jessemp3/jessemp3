@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Jesse
 
+
 📱 **Android Developer (Java & Kotlin)**  
 🎓 Analysis and Systems Development (ADS)  
 🎯 Focused on *native mobile development* with great UX & performance  
