@@ -30,7 +30,7 @@
 
 ## 📱 Featured Projects
 
-### 🔹 [AgeOS](https://github.com/jessemp3/AgeOS)
+### 🔹 [AgeOS](https://github.com/AgeOS/AgeOs)
 AgeOS is a custom **ROM** designed to simplify navigation for *seniors*, ensuring accessibility and safety against digital threats.  
 - Built with **Java + Kotlin + React + Sass**  
 - Large fonts, simple navigation, essential daily utilities  
@@ -57,9 +57,6 @@ Battery Guardian is an app to analyze your battery
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessemp3&hide=html,css,blade,ejs&theme=transparent" height="195"/>
 </p>
 
-<p align="center">
- <img src="https://streak-stats.demolab.com?user=jessemp3&theme=transparent&hide_border=true" height="160"/>
-</p>
 
 ---
 
