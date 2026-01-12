@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,javascript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin" height="40"/>
 </p>
 
 ### 📚 Frameworks & Tools
